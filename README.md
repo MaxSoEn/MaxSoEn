@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MaxSoEn/MaxSoEn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MaxSoEn/MaxSoEn/main/output/snake.svg" alt="Snake animation" />
 
 ###
 
