@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="182" src="https://media.licdn.com/dms/image/D4D03AQFtyxNWLINn-w/profile-displayphoto-shrink_800_800/0/1715805302030?e=1724889600&v=beta&t=zGPc0-5O23L8AQ_GurHHoBZ32Uyi98WycnQI0vBj4H0"  />
-</div>
-
 ###
 
 <h2 align="left">Hi 👋! My name is khlad and I'm a Computer System Engineer</h2>
